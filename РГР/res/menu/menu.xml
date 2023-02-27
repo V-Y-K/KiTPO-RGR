@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/balanceMenu"
+        android:orderInCategory="100"
+        android:title="Сбалансировать"/>
+
+    <item
+        android:id="@+id/saveMenu"
+        android:orderInCategory="110"
+        android:title="Сохранить"/>
+
+    <item
+        android:id="@+id/loadMenu"
+        android:orderInCategory="120"
+        android:title="Загрузить"/>
+
+    <item
+        android:id="@+id/clearMenu"
+        android:orderInCategory="130"
+        android:title="Очистить"/>
+
+</menu>
